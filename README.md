@@ -1,2 +1,2 @@
 # 100DaysOfSwift
-A list of projects I have created while learning how to hack with Swift and iOS
+Projects created using Swift in a challenge called the 100 Days of Swift
